@@ -19,4 +19,4 @@ def solution(array, commands):
         answer.append(k_num)
     return answer
 ```
-![프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)
+[프로그래머스 링크](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)
